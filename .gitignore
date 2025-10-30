@@ -1,0 +1,27 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# OS specific
+.DS_Store
+Thumbs.db
